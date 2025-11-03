@@ -25,14 +25,16 @@ Users can enter their name, answer randomized questions, and get a pass/fail res
 
 ## 🚀 How to Run Locally
 
-### 1️⃣ Clone the repository
+### 
+**1️⃣ Clone the repository**
 git clone https://github.com/teamriflemig/SecurityQuestionare-Quiz.git
 cd SecurityQuestionare-Quiz
 
-Install dependencies
+**2️⃣Install dependencies**
+
 npm install
 
-3️⃣ Run the app
+**3️⃣ Run the app**
 npm run dev
 
 
@@ -70,3 +72,4 @@ Muhamad Iskandar
 **License**
 
 This project is open-source and free to use for learning or non-commercial purposes.
+
